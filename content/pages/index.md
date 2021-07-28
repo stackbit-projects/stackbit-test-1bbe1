@@ -10,7 +10,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-      - label: Get started now
+      - label: Roman
         url: /contact
         style: secondary
     align: left
